@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Andhachandrasana",
+      "pain_type": "Lower back pain",
+      "description": "Strengthens the spine and improves flexibility in the lower back.",
+      "image": "andhachandrasana.jpg"
+    },
+    {
+      "name": "Baddha Konasana",
+      "pain_type": "Hip pain",
+      "description": "Opens the hips and groin, reducing hip joint stiffness.",
+      "image": "baddhakonasana.jpg"
+    },
+    {
+      "name": "Downward Dog",
+      "pain_type": "Full body tension",
+      "description": "Stretches the whole body, improves posture, and reduces back and neck stiffness.",
+      "image": "downward_dog.jpg"
+    },
+    {
+      "name": "Natarajasana",
+      "pain_type": "Shoulder and leg stiffness",
+      "description": "Improves balance and stretches the shoulders, chest, thighs, and groin.",
+      "image": "natarajasana.jpeg"
+    },
+    {
+      "name": "Triangle Pose",
+      "pain_type": "Neck and back pain",
+      "description": "Stretches the spine and opens up the chest and shoulders.",
+      "image": "triangle.jpg"
+    },
+    {
+      "name": "Utkatakonaasana",
+      "pain_type": "Thigh and hip pain",
+      "description": "Strengthens the thighs, hips, and core muscles while improving flexibility.",
+      "image": "utkatakonasana.jpeg"
+    },
+    {
+      "name": "Virabhadrasana",
+      "pain_type": "Knee and back stiffness",
+      "description": "Strengthens legs and relieves stiffness in the lower back and knees.",
+      "image": "verabhadrasana.jpeg"
+    },
+    {
+      "name": "Vrikshasana",
+      "pain_type": "Ankle and leg weakness",
+      "description": "Improves balance and strengthens the legs and ankles.",
+      "image": "virukshasana.jpeg"
+    }
+  ]
+  
